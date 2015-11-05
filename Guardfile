@@ -15,7 +15,7 @@
 #
 # and, you'll have to watch "config/Guardfile" instead of "Guardfile"
 
-notification :gntp
+# notification :gntp
 
 guard :bundler do
   require 'guard/bundler'
